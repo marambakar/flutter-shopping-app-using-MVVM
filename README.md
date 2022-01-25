@@ -1,4 +1,4 @@
-# alayniah
+# flutter-shopping-app-using-MVVM
 
 A new Flutter application.
 
