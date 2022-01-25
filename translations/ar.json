@@ -1,0 +1,127 @@
+{
+  "welcome": "مرحبا بك ..",
+  "choiceLanguage": "اختيار اللغة",
+
+  "home": "الرئيسية",
+  "myorders": "طلباتي",
+  "orders": "الطلبات",
+  "notifications": "الاشعارات",
+  "profile": "الملف الشخصي",
+  "appname": "متجرنا",
+
+  "login": "تسجيل",
+  "validphone": "الرجاء ادخال رقم الهاتف ",
+  "validlength": "خطأ في عملية التحقق",
+
+  "code": "سجل",
+  "codehint": "ادخل رمز التحقق",
+  "validcode": "الرجاء ادخال رمز التحقق",
+
+  "payment": "الدفع",
+  "cardholder": "اسم المالك",
+  "cardnumber": "رقم البطاقة",
+  "validcardnumber": "الرجاء ادخال رقم البطاقة",
+  "cvcnumber": "رقم السري",
+  "validcvc": "الرجاء ادخال رقم السري",
+  "expdate": "تاريخ الانتهاء",
+  "pay": "دفع",
+
+  "myprofile": "ملفي الشخصي",
+  "firstname" : "الاسم الأول",
+  "validfirstname": "الرجاء ادخال الاسم الاول ",
+  "lastname": "اسم العائلة",
+  "validlastname": "الرجاء ادخال اسم العائلة",
+  "email": "البريد الالكتروني",
+  "validemail": "الرجاء ادخل البريد الالكتروني صحيح",
+  "save": "حفظ",
+
+  "profileinformation": "المعلومات الشخصية",
+  "favorite": "المفضلة",
+  "languagesettings": "إعدادات اللغة",
+  "usageagreement": "اتفاقية الاستخدام",
+  "communicationways": "طرق الاتصال",
+  "telephone": "الهاتف",
+  "whatsapp": "واتساب",
+  "sendemail": "إرسال بريد إلكتروني",
+  "logout": "تسجيل الخروج",
+
+  "yourcart": "سلتك",
+  "subtotal": "المبلغ الجزئي",
+  "continue": "متابعة",
+
+  "errorconnectwithserver": "حدث خطأ اثناء الاتصال بالمخدم",
+  "reretry": "إعادة المحاولة",
+  "withoutconnect": "غير متصل بالشبكة حاليا",
+
+  "searchforproduct": "البحث عن منتج",
+  "category": "الأصناف",
+  "lastproduct": "آخر المنتجات",
+  "offers": "العروض",
+
+  "checkout": "الدفع",
+  "discount": "التخفيض",
+  "tax": "الضريبة",
+  "deliveryfee": "رسوم التوصيل",
+  "totalprice": "المبلغ الكلي",
+  "docheckout": "قم بالدفع",
+
+  "noorder": "لا يوجد طلبيات",
+
+  "address": "العنوان",
+  "pickuptime": "وقت الاستلام",
+  "expecteddeliverytime": "الوقت المتوقع للوصول",
+  "nettotal": "المبلغ الاجمالي",
+
+  "orderreceived": "الطلب الوارد",
+  "ontheway": "في الطريق",
+  "delivered": "التسليم",
+  "trackingyourorder": "تتبع طلبيتك",
+  "invoice": "الفاتورة : ",
+  "cancelorder": "الغاء الطلبية",
+
+  "addtocart": "اضافة الى السلة",
+
+  "viewcart": "عرض السلة",
+
+  "offer": "العرض",
+
+  "noresults": "لا يوجد نتائج",
+  "resultserror": "نتائج خاطئة",
+  "noresultyet": "لا يوجد نتائج بعد",
+  "search": "بحث",
+  "searchcancel": "الغاء البحث",
+
+  "youshouldloginbeforeaddtocart": "يجب عليك تسجيل الدخول قبل الاضافة الى السلة",
+
+  "ordersuccess": "تم حذف الطلب بنجاح",
+  "theorderdeleted": "هل أنت متأكد من إلغاء طلبك ..؟",
+  "trackingorder": "اضغط حسنا اذا كنت تريد تتبع طلبك",
+  "ok": "حسنا",
+  "cancel": "الغاء",
+  "areyousurelogout": "هل أنت متأكد من تسجيل الخروج ..؟",
+  "showmore": "المزيد",
+  "showless": "عرض أقل",
+  "nonotifications": "لا يوجد اشعارات",
+
+  "yourlocation": "موقعك",
+  "changeyourlocation": "تغيير موقعك",
+  "Order Number :" : "رقم الطلب",
+  "Location :" : "موقع التوصيل",
+  "deliverycost" : "تكلفة التوصيل",
+  "dateandtime": "التاريخ والوقت",
+  "Total" : "الإجمالي",
+  "change": "تغيير",
+  "bestseller": "الأكثر مبيعاً",
+  "mostwatched": "الأكثر مشاهدة",
+  "map": "خريطة",
+  "textaddress": "عنوان نصي",
+  "locationmethod": "رجاء اختر طريقة تحديد موقعك",
+  "enterLocation": "رجاء ادخل عنوانك",
+  "loginwithphonenumber": "تسحيل الدخول بواسطة الرقم",
+  "price": "السعر :",
+  "sar": "ريال سعودي "
+
+
+
+
+}

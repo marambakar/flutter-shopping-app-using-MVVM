@@ -1,0 +1,125 @@
+{
+
+  "Welcome": "welcome",
+  "choiceLanguage": "Choice Language",
+
+  "home": "Home",
+  "myorders": "My Orders",
+  "notifications": "Notifications",
+  "profile": "My profile",
+  "appname": "Store App",
+
+  "login": "LOGIN",
+  "validlength": "Verification error",
+  "validphone": "Please enter your phone number ",
+
+  "code": "OTP Code",
+  "codehint": "please enter Verification code",
+  "validcode": "Please enter Verification code",
+
+  "payment": "Payment",
+  "cardholder": "Card holder",
+  "cardnumber": "Card number",
+  "validcardnumber": "Please enter Card number",
+  "cvcnumber": "CVC",
+  "validcvc": "Please enter CVC",
+  "expdate": "Exp date",
+  "pay": "PAY",
+
+  "myprofile": "My profile",
+  "firstname" : "First Name",
+  "validfirstname": "Please enter your first name",
+  "lastname": "Last Name",
+  "validlastname": "Please enter your last name ",
+  "email": "Email",
+  "validemail": "Please enter valid email",
+  "save": "SAVE",
+
+  "profileinformation": "Profile Information",
+  "favorite": "Favorite",
+  "languagesettings": "Language Settings",
+  "usageagreement": "Usage Agreement",
+  "communicationways": "Communication Ways",
+  "telephone": "Telephone",
+  "whatsapp": "Whatsapp",
+  "sendemail": "Send Email",
+  "logout": "Log Out",
+
+  "yourcart": "Your Cart",
+  "subtotal": "SubTotal",
+  "continue": "Continue",
+
+  "errorconnectwithserver": "Error When Connected With Server",
+  "retry": "Re Try",
+  "withoutconnect": "NO Connection",
+
+  "searchforproduct": "Search For Product",
+  "category": "Category",
+  "lastproduct": "Last Product",
+  "offers": "Offers",
+
+  "checkout": "Checkout",
+  "discount": "Discount",
+  "tax": "Tax",
+  "deliverycost": "Delivery Fee",
+  "totalprice": "Total Price",
+  "docheckout": "Do Checkout",
+
+  "noorder": "No Order",
+
+  "orders": "Orders",
+  "address": "Address",
+  "pickuptime": "Pickup Time",
+  "expecteddeliverytime": "Expected Delivery Time",
+  "nettotal": "Net Total",
+
+  "orderreceived": "Order Received",
+  "ontheway": "On The Way",
+  "delivered": "Delivered",
+  "trackingyourorder": "Tracking your Order",
+  "invoice": "INVOICE : ",
+  "cancelorder": "Cancel Order",
+
+  "addtocart": "Add To Cart",
+
+  "viewcart": "View Cart",
+
+  "offer": "Offer",
+
+  "noresults": "No Results",
+  "resultserror": "Results Error",
+  "noresultyet": "No Result Yet",
+  "search": "Search",
+  "searchcancel": "Search Cancel",
+
+  "youshouldloginbeforeaddtocart": "You Should Login Before Add To Cart",
+
+  "ordersuccess": "The order has been successfully deleted",
+  "theorderdeleted": "Are you sure cancel your order ..?",
+
+  "trackingorder": "Press ok if you want tracking your order",
+  "ok": "Ok",
+  "cancel": "Cancel",
+  "areyousurelogout": "Are you sure log out ..?",
+  "showmore": "Show more",
+  "showless": "Show less",
+  "nonotifications": "No Notifications",
+
+  "yourlocation": "Your Location",
+  "changeyourlocation": "Change Your Location",
+  "Order Number :" : "Order Number",
+  "Location :" : "Location",
+  "Delivery Cost :" : "Delivery Cost",
+  "dateandtime": "Date and time",
+  "Total" : "Total",
+  "change": "Change",
+  "bestseller": "Best Seller",
+  "mostwatched": "Most Watched",
+  "map": "Map",
+  "textaddress": "Text Address",
+  "locationmethod": "Please choose a location method",
+  "enterLocation": "Please enter your address",
+  "loginwithphonenumber": "Login with phone number",
+  "price": "Price :",
+  "sar": " SAR"
+}

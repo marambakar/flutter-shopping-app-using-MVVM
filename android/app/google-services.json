@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "626990446012",
+    "project_id": "alayniah-c7ad3",
+    "storage_bucket": "alayniah-c7ad3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626990446012:android:65ba8738dfd3db81a8e7b9",
+        "android_client_info": {
+          "package_name": "com.example.alayniah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626990446012-86lp1mr4p5v9t3ongthd2tcnjj0t10jt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alayniah",
+            "certificate_hash": "5f50fb3e5b1d03180ab4a44ff07913110c2564c9"
+          }
+        },
+        {
+          "client_id": "626990446012-eg0geff3pgbdnm03eb31uvptkjficj8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmGnLEsppDsVL23yeQqOX85hOtww0_ikQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626990446012-eg0geff3pgbdnm03eb31uvptkjficj8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
