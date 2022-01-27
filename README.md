@@ -1,3 +1,3 @@
 # flutter-shopping-app-using-MVVM
-shop for Selling art and pottery pieces
-#Features
+A shop for Selling art and pottery pieces
+# Features
