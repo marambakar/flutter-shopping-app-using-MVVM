@@ -13,4 +13,4 @@ A shop for Selling art and pottery pieces
 * Remove from cart
 * Checkout page (display bill which contain : order number , date and time , subtotal , discount , tax , delivery cost , total)
 * Payment page(specify the card holder , card number and payment method)
-* Order trackig
+* Order tracking
