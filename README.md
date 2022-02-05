@@ -22,11 +22,11 @@ A shop for Selling art and pottery pieces
 <img src="https://user-images.githubusercontent.com/49687204/152639790-b3fdf9cf-2e01-42c3-830e-52fab8edf86f.jpg" width = "200" heigh="0">
   </p>
 
-![3](https://user-images.githubusercontent.com/49687204/152639796-8005b3b8-a2dd-43f0-a579-0fe3be4ced4f.jpg)
+<img src="https://user-images.githubusercontent.com/49687204/152639796-8005b3b8-a2dd-43f0-a579-0fe3be4ced4f.jpg" width = "200" height="400">
 
-![4](https://user-images.githubusercontent.com/49687204/152639799-d11f1d61-bcf3-4158-8a47-1f43f251b78b.jpg)
+<img src="https://user-images.githubusercontent.com/49687204/152639799-d11f1d61-bcf3-4158-8a47-1f43f251b78b.jpg" width = "200" height="400">
 
-![5](https://user-images.githubusercontent.com/49687204/152639801-15c8e2a2-1129-486d-b875-bc8837b1f149.jpg)
+<img src="https://user-images.githubusercontent.com/49687204/152639801-15c8e2a2-1129-486d-b875-bc8837b1f149.jpg" width = "200" height="400">
 
 ![6](https://user-images.githubusercontent.com/49687204/152639805-8d4ce41b-b30f-4e28-be22-562edcfbcf8a.jpg)
 
