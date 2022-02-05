@@ -15,7 +15,7 @@ A shop for Selling art and pottery pieces
 * Payment page(specify the card holder , card number and payment method)
 * Order tracking
 # Screens
-<img src="https://user-images.githubusercontent.com/49687204/152639786-04d0f25e-a170-4b79-8b87-c4a51413b08a.jpg" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/49687204/152639786-04d0f25e-a170-4b79-8b87-c4a51413b08a.jpg" width="200" height="400">
 
 ![2](https://user-images.githubusercontent.com/49687204/152639790-b3fdf9cf-2e01-42c3-830e-52fab8edf86f.jpg)
 
