@@ -32,8 +32,7 @@ A shop for Selling art and pottery pieces
 
  <img src="https://user-images.githubusercontent.com/49687204/152639796-8005b3b8-a2dd-43f0-a579-0fe3be4ced4f.jpg" width = "250" height="500">
 
-  
-  </p>
+</p>
 
 <p float="center">
 <img src="https://user-images.githubusercontent.com/49687204/152639799-d11f1d61-bcf3-4158-8a47-1f43f251b78b.jpg" width = "250" height="500">
