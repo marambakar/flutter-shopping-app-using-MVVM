@@ -35,13 +35,19 @@ A shop for Selling art and pottery pieces
   
   </p>
 
-
-<img src="https://user-images.githubusercontent.com/49687204/152639799-d11f1d61-bcf3-4158-8a47-1f43f251b78b.jpg" width = "200" height="400">
-
-<img src="https://user-images.githubusercontent.com/49687204/152639801-15c8e2a2-1129-486d-b875-bc8837b1f149.jpg" width = "200" height="400">
-
-<img src="https://user-images.githubusercontent.com/49687204/152639805-8d4ce41b-b30f-4e28-be22-562edcfbcf8a.jpg" width = "200" height="400">
-
+<p float="center">
+<img src="https://user-images.githubusercontent.com/49687204/152639799-d11f1d61-bcf3-4158-8a47-1f43f251b78b.jpg" width = "250" height="500">
+  &nbsp;
+ &nbsp;
+ &nbsp;
+  &nbsp;
+<img src="https://user-images.githubusercontent.com/49687204/152639801-15c8e2a2-1129-486d-b875-bc8837b1f149.jpg" width = "250" height="500">
+  &nbsp;
+ &nbsp;
+ &nbsp;
+  &nbsp;
+<img src="https://user-images.githubusercontent.com/49687204/152639805-8d4ce41b-b30f-4e28-be22-562edcfbcf8a.jpg" width = "250" height="500">
+</p>
 <img src="https://user-images.githubusercontent.com/49687204/152639815-1bdfbccf-c794-43f9-abe1-bb9d304930bc.jpg" width = "200" height="400">
 
 <img src="https://user-images.githubusercontent.com/49687204/152639819-339b05d6-6f0e-4547-a157-cd8e35344b8a.jpg" width = "200" height="400">
