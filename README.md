@@ -36,6 +36,4 @@ A shop for Selling art and pottery pieces
 ![photo_2022-02-05_14-45-45](https://user-images.githubusercontent.com/49687204/152639593-c80f4283-5581-42ce-be53-33148dc8a895.jpg)
 ![photo_2022-02-05_14-45-51](https://user-images.githubusercontent.com/49687204/152639594-4855cdc4-e6e1-4cff-9641-e13463a86cb5.jpg)
 ![photo_2022-02-05_14-45-54](https://user-images.githubusercontent.com/49687204/152639598-758d4447-bf3f-45![photo_2022-02-05_14-45-47](https://user-images.githubusercontent.com/49687204/152639599-34a880d1-db6d-475b-b6ea-8eb6f7a430b1.jpg)
-35-845f-97ec5784d78e.jpg)
-![Screenshot_1622024088](https://user-images.githubusercontent.com/49687204/152639602-8ae720e9-6a56-4793-b8a4-4e![photo_2022-02-05_14-45-24](https://user-images.githubusercontent.com/49687204/152639606-c5d97fdf-8dda-4992-8eed-0d6355393b45.jpg)
-c88a6a08ec.png)
+
