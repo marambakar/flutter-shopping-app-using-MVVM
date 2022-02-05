@@ -21,18 +21,20 @@ A shop for Selling art and pottery pieces
  &nbsp;
  &nbsp;
  &nbsp;
- 
+  &nbsp;
+
 
 <img src="https://user-images.githubusercontent.com/49687204/152639790-b3fdf9cf-2e01-42c3-830e-52fab8edf86f.jpg" width = "250" heigh="200">
   &nbsp;
  &nbsp;
  &nbsp;
+  &nbsp;
+
  <img src="https://user-images.githubusercontent.com/49687204/152639796-8005b3b8-a2dd-43f0-a579-0fe3be4ced4f.jpg" width = "250" height="500">
 
   
   </p>
 
-<img src="https://user-images.githubusercontent.com/49687204/152639796-8005b3b8-a2dd-43f0-a579-0fe3be4ced4f.jpg" width = "200" height="400">
 
 <img src="https://user-images.githubusercontent.com/49687204/152639799-d11f1d61-bcf3-4158-8a47-1f43f251b78b.jpg" width = "200" height="400">
 
